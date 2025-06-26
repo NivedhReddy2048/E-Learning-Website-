@@ -38,7 +38,7 @@ Since PHP requires a server environment to run, this project is deployed locally
 
 ### 📌 Student Dashboard  
 
-(![image](https://github.com/user-attachments/assets/a75cf854-c8ca-409e-aff4-d863cb77ba28)
+![image](https://github.com/user-attachments/assets/a75cf854-c8ca-409e-aff4-d863cb77ba28)
 
 - **Quick Options:** View likes, comments, and saved playlists.  
 - **Top Categories:** List of popular learning categories like development, music, photography, etc.  
@@ -48,7 +48,7 @@ Since PHP requires a server environment to run, this project is deployed locally
 ---
 ### 📌 Tutor Dashboard  
 
-(![image](https://github.com/user-attachments/assets/ee3cad1e-c9aa-4592-92d2-ec241b7bfeb1)
+![image](https://github.com/user-attachments/assets/ee3cad1e-c9aa-4592-92d2-ec241b7bfeb1)
 
 
 - **Quick Options:** Manage uploaded videos, playlists, view student comments and likes.
