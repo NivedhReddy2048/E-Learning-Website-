@@ -38,7 +38,9 @@ Since PHP requires a server environment to run, this project is deployed locally
 
 ### 📌 Student Dashboard  
 
-![Student Dashboard](./screenshots/https://raw.githubusercontent.com/NivedhReddy2048/E-Learning-Website-/refs/heads/main/screenshots/Screenshot%202025-06-26%20165615.png)
+![Student Dashboard](![image](https://github.com/user-attachments/assets/a75cf854-c8ca-409e-aff4-d863cb77ba28)
+![image](https://github.com/user-attachments/assets/a75cf854-c8ca-409e-aff4-d863cb77ba28)
+)
 
 - **Quick Options:** View likes, comments, and saved playlists.  
 - **Top Categories:** List of popular learning categories like development, music, photography, etc.  
