@@ -57,6 +57,27 @@ Since PHP requires a server environment to run, this project is deployed locally
 - **Manage Profile:** Update personal details and profile picture.
 - **Dashboard Stats:** Overview of courses uploaded, total likes, and comments received.
 
+🚀 Frontend Demo
+You can explore the frontend interface of the E-Learning Platform here:
+
+👉 Live Frontend Demo: https://nivedhreddy2048.github.io/E-learning-Platform-Frontend/
+
+Features in the demo:
+
+Home Page
+
+About Page
+
+Courses Listing Page
+
+Teacher Profiles
+
+Contact Form
+
+Student & Tutor Dashboards (Frontend Only)
+
+📌 Note: This is a frontend-only demo hosted on GitHub Pages. Backend features like login, video uploads, comments, and playlist management require a local PHP server setup (e.g., XAMPP).
+
 ## 🛠️ Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript  
