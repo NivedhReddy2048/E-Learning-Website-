@@ -1,6 +1,6 @@
 # 📚 Gravity - E-Learning Platform  
 
-link
+
 An interactive and responsive E-Learning platform built with **HTML**, **CSS**, **JavaScript**, and **PHP** with a **MySQL** database. It offers students and tutors a seamless experience for managing and accessing educational content.
 
 ---
